@@ -8,4 +8,4 @@ I’m undergraduate at King Mongkut’s University of Technology Thonburi. I’m
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBoxBanner&show_icons=true&theme=ayu-mirage)](https://github.com/BlackBoxBanner/BlackBoxBanner)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxBanner&theme=ayu-mirage)](https://github.com/BlackBoxBanner)
+[![Top Langs](https://github-readme-stats-fork-rho.vercel.app/api/top-langs/?username=BlackBoxBanner&langs_count=10&theme=ayu-mirage)](https://github.com/BlackBoxBanner)
