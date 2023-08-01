@@ -6,8 +6,8 @@ I'm an undergraduate student at King Mongkut’s University of Technology Thonbu
 ### Skills and Tools:
 
 - Programming Languages: TypeScript, JavaScript
-- Front-end Development: HTML, CSS
-- Back-end Development: Java
+- Front-end Development: HTML, CSS, React, NextJS, Vite
+- Back-end Development: NodeJS, ExpressJS
 - Editor: VS Code
 - Operating System: Mac
 
