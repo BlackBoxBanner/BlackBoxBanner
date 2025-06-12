@@ -1,20 +1,15 @@
-
 ## Hi there! 👋
 
-I'm an undergraduate student at King Mongkut’s University of Technology Thonburi. My current focus is on learning TypeScript, and I'm aiming to become a Full Stack Developer.
+I’m a recent graduate from King Mongkut’s University of Technology Thonburi (KMUTT) and a passionate **Full Stack Developer**. I love building both web and mobile applications that people enjoy using.
 
-### Skills and Tools:
+Outside of coding, I enjoy learning new technologies, contributing to open-source projects, and exploring creative solutions to real-world problems.
 
-- Programming Languages: TypeScript, JavaScript
-- Front-end Development: HTML, CSS, React, NextJS, Vite
-- Back-end Development: NodeJS, ExpressJS
-- Editor: VS Code
-- Operating System: Mac
+### 📫 Connect with Me
 
-### GitHub Stats:
+- 📧 Email: svac.mai+work@gmail.com
+- 🔗 LinkedIn: [Sueksit Vachirakumthorn](https://www.linkedin.com/in/sueksit-vachirakumthorn-544baa219/)
+- 🐙 GitHub: [BlackBoxBanner](https://github.com/BlackBoxBanner)
+
+Feel free to reach out—let’s build something together!
 
 [![Anurag's GitHub stats](https://github-readme-stats-fork-rho.vercel.app/api?username=BlackBoxBanner&show_icons=true&theme=ayu-mirage)](https://github.com/BlackBoxBanner/BlackBoxBanner)
-
-[![Top Langs](https://github-readme-stats-fork-rho.vercel.app/api/top-langs/?username=BlackBoxBanner&langs_count=10&theme=ayu-mirage)](https://github.com/BlackBoxBanner)
-
-Feel free to connect with me and explore my projects!
