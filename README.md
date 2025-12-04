@@ -1,15 +1,41 @@
-## Hi there! 👋
+# Hi there! 👋  
 
-I’m a recent graduate from King Mongkut’s University of Technology Thonburi (KMUTT) and a passionate **Full Stack Developer**. I love building both web and mobile applications that people enjoy using.
+I’m **Sueksit Vachirakumthorn** — a passionate Full-Stack Developer who enjoys building web and mobile applications that people enjoy using. I’m always learning new technologies, solving real-world problems, and contributing to open-source projects.
 
-Outside of coding, I enjoy learning new technologies, contributing to open-source projects, and exploring creative solutions to real-world problems.
+---
 
-### 📫 Connect with Me
+## 💻 What I Do  
 
-- 📧 Email: svac.mai+work@gmail.com
-- 🔗 LinkedIn: [Sueksit Vachirakumthorn](https://www.linkedin.com/in/sueksit-vachirakumthorn-544baa219/)
-- 🐙 GitHub: [BlackBoxBanner](https://github.com/BlackBoxBanner)
+- Build modern web applications with frameworks like React / Next.js  
+- Work on mobile apps using React Native (Expo) and mobile-first design  
+- Design and implement backend services, databases, and e-commerce workflows  
+- Integrate payment systems and build multi-vendor / full-stack systems  
+- Manage CI/CD, deployment, and infrastructure for projects  
 
-Feel free to reach out—let’s build something together!
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats-fork-rho.vercel.app/api?username=BlackBoxBanner&show_icons=true&theme=ayu-mirage)](https://github.com/BlackBoxBanner/BlackBoxBanner)
+## 🚀 Interests & Focus  
+
+- Clean, maintainable, scalable code  
+- Efficient, user-friendly UI/UX for web and mobile  
+- Continuous learning of new technologies and best practices  
+- Collaborative projects & open-source contributions  
+- Solving complex problems and delivering quality results  
+
+---
+
+## 📫 Connect with Me  
+
+- Email: **svac.mai+work@gmail.com**  
+- LinkedIn: [Sueksit Vachirakumthorn](https://www.linkedin.com/in/sueksit)  
+- GitHub: [BlackBoxBanner](https://github.com/BlackBoxBanner)  
+
+---
+
+## 📊 GitHub Stats  
+
+[![Sueksit’s GitHub stats](https://github-readme-stats-fork-rho.vercel.app/api?username=BlackBoxBanner&show_icons=true&theme=ayu-mirage)](https://github.com/BlackBoxBanner)
+
+---
+
+> “Let’s build something together!”  
