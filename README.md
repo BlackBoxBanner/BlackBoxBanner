@@ -17,7 +17,6 @@ I’m **Sueksit Vachirakumthorn** — a passionate Full-Stack Developer who enjo
 ## 🚀 Interests & Focus  
 
 - Clean, maintainable, scalable code  
-- Efficient, user-friendly UI/UX for web and mobile  
 - Continuous learning of new technologies and best practices  
 - Collaborative projects & open-source contributions  
 - Solving complex problems and delivering quality results  
